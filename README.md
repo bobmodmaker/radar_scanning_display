@@ -5,8 +5,7 @@
 
 ### 使用方式
 用藍牙傳送指定格式:
-'''c++
-'String(angle) + "," + String(distance, 2);'
+'''String(angle) + "," + String(distance, 2);'''
 
 ---
 
@@ -15,5 +14,4 @@ This project displays rangefinder data in a radar-like manner.
 
 ### Usage
 Send the specified format via Bluetooth:
-'''c++
-'String(angle) + "," + String(distance, 2);'
+'''String(angle) + "," + String(distance, 2);'''
